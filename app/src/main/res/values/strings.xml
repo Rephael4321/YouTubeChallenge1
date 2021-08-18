@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YouTube Challenge 1</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="button_register">Register</string>
+    <string name="textview_firstname">First Name</string>
+    <string name="textview_lastname">Last Name</string>
+    <string name="textview_email">Email</string>
+</resources>
