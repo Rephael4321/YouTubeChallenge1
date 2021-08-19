@@ -1,6 +1,6 @@
 # YouTubeChallenge1
 
-This is the solution of the first challenge introduced by "freeCodeCamp.org" on "youtube"
+This is the solution of the 'first' challenge introduced by "freeCodeCamp.org" on "youtube"
 
 Challenge at 59:20
 
